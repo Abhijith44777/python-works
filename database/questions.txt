@@ -1,0 +1,3 @@
+this is the python program  to print hellon world
+this python text is very  simple
+this python program count frequency of each word

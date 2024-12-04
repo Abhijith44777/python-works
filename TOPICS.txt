@@ -1,0 +1,28 @@
+fundamentals(variable,operators,datatype)
+decisionmaking(if,if...else,if..elif...else)
+looping(for,while)
+functions(),lambda function
+string class method
+collections 
+     list
+     tuple
+     set method
+     dictionary
+nested collections
+file operations
+processing json
+regularexpressions
+
+pending
+    *args  *kwargs
+    deceroters
+    break....................................................
+    frontend (html,css,bootstrap)
+    ........................................................
+    object oriended programming
+    error handling
+    python main exam............
+    yield
+
+
+django(python)

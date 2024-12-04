@@ -1,0 +1,17 @@
+num1=10
+
+
+num2=3
+
+division_result=num1/num2#str/int
+
+print(division_result)
+
+floor_division=num1//num2
+
+print(floor_division)
+
+remainder=num1%num2
+
+print(remainder)
+

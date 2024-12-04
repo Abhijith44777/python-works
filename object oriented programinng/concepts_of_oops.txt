@@ -1,0 +1,41 @@
+*class
+*object
+*constructor----__init__
+*__str__
+*self
+*super()
+
+
+***** inheritance*****
+
+  >singleinheritance
+  >multipleinheritance
+  >multilevel
+
+
+*****polymorphism******
+ 
+  >method overloading
+    same method name different no.of parameters
+  python doesnot support methodoverloading
+
+  >method overriding
+  
+
+
+
+*****abstration *****
+
+> ---- ABC abstract base class --- abcclass
+
+> abstract class contains abstract methods(methods without defanition)
+
+> an abstract class should inherit ABC class  eg: class car(ABC)
+ 
+> an abstract method should inherit ABC method  
+
+  eg: @abstract_method
+       def start():
+
+
+(encapsulation)

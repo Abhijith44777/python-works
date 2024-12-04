@@ -1,0 +1,18 @@
+print("message) => print a message in console
+
+type(object) => return data type of object
+
+input("message") => read values from console only returns string
+
+round(object,precision)
+
+len(obj)  => return length of object thats not must be int
+
+
+
+
+loop
+
+for == if range is defined
+
+ while ==if start and end is not defined
